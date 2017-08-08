@@ -199,6 +199,7 @@
 "c:\users\epicodus\documents\visual studio 2015\Projects\BasicAuthentication\src\BasicAuthentication\Program.cs"
 "c:\users\epicodus\documents\visual studio 2015\Projects\BasicAuthentication\src\BasicAuthentication\Startup.cs"
 "c:\users\epicodus\documents\visual studio 2015\Projects\BasicAuthentication\src\BasicAuthentication\Controllers\AccountController.cs"
+"c:\users\epicodus\documents\visual studio 2015\Projects\BasicAuthentication\src\BasicAuthentication\Controllers\RolesController.cs"
 "c:\users\epicodus\documents\visual studio 2015\Projects\BasicAuthentication\src\BasicAuthentication\Controllers\ToDoController.cs"
 "c:\users\epicodus\documents\visual studio 2015\Projects\BasicAuthentication\src\BasicAuthentication\Migrations\20170807225727_Initial.cs"
 "c:\users\epicodus\documents\visual studio 2015\Projects\BasicAuthentication\src\BasicAuthentication\Migrations\20170807225727_Initial.Designer.cs"

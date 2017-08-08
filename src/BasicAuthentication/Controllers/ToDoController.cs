@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Authorization;
 using BasicAuthentication.Models;
 using Microsoft.AspNetCore.Identity;
 using System.Security.Claims;
+using Microsoft.AspNetCore.Http;
 
 namespace BasicAuthentication.Controllers
 {
@@ -43,6 +44,6 @@ namespace BasicAuthentication.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
-
+        
     }
 }
